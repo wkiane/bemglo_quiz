@@ -5,7 +5,12 @@
             {
                 "result": {
                     "title": "The Reg",
-                    "text": "The Reg",
+                    "text": [
+                        "<h2 class='header_h2'>uma breve descricao<h2>",
+                        "<h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3>",
+                        "<h2 class='header_h2'>uma breve descricao<h2>",
+                        "<h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3>",  
+                    ],
                     "id": 0
                 }
             },
