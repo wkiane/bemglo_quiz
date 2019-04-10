@@ -6,6 +6,12 @@
                 "result": {
                     "title": "The Reg",
                     "text": "<h2 class='header_h2'>uma breve descricao<h2><h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3><h2 class='header_h2'>uma breve descricao<h2><h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3>",
+                    "produto_1_link": "https://www.bemglo.com/",
+                    "produto_1_img": "",
+                    "produto_2_link": "https://www.bemglo.com/",
+                    "produto_2_img": "",
+                    "produto_3_link": "https://www.bemglo.com/",
+                    "produto_3_img": "",
                     "id": 0
                 }
             },
@@ -13,6 +19,12 @@
                 "result": {
                     "title": "Max Palevsky",
                     "text": "Max Palevsky",
+                    "produto_1_link": "https://www.bemglo.com/",
+                    "produto_1_img": "",
+                    "produto_2_link": "https://www.bemglo.com/",
+                    "produto_2_img": "",
+                    "produto_3_link": "https://www.bemglo.com/",
+                    "produto_3_img": "",
                     "id": 1
                 }
             },
@@ -20,6 +32,12 @@
                 "result": {
                     "title": "Saieh Hall",
                     "text": "Saieh Hall",
+                    "produto_1_link": "https://www.bemglo.com/",
+                    "produto_1_img": "",
+                    "produto_2_link": "https://www.bemglo.com/",
+                    "produto_2_img": "",
+                    "produto_3_link": "https://www.bemglo.com/",
+                    "produto_3_img": "",
                     "id": 2
                 }
             },
@@ -27,6 +45,12 @@
                 "result": {
                     "title": "Mansueto",
                     "text": "Mansueto",
+                    "produto_1_link": "https://www.bemglo.com/",
+                    "produto_1_img": "",
+                    "produto_2_link": "https://www.bemglo.com/",
+                    "produto_2_img": "",
+                    "produto_3_link": "https://www.bemglo.com/",
+                    "produto_3_img": "",
                     "id": 3
                 }
             },
@@ -34,6 +58,12 @@
                 "result": {
                     "title": "Harper",
                     "text": "Harper",
+                    "produto_1_link": "https://www.bemglo.com/",
+                    "produto_1_img": "",
+                    "produto_2_link": "https://www.bemglo.com/",
+                    "produto_2_img": "",
+                    "produto_3_link": "https://www.bemglo.com/",
+                    "produto_3_img": "",
                     "id": 4
                 }
             }
