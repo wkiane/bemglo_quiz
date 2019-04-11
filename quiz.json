@@ -1,10 +1,10 @@
 [
     {
-        "quiz_title": "Which UChicago Building Are You?",
+        "quiz_title": "Que tipo de mãe é a sua?",
         "quiz_results": [
             {
                 "result": {
-                    "title": "The Reg",
+                    "title": "Mãe tipo 1",
                     "text": "<h2 class='header_h2'>uma breve descricao<h2><h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3><h2 class='header_h2'>uma breve descricao<h2><h3 class='header_h3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum lorem imperdiet. Nunc ut sem vitae risus tristique posuere.</h3>",
                     "produto_1_link": "https://www.bemglo.com/",
                     "produto_1_img": "",
@@ -17,8 +17,8 @@
             },
             {
                 "result": {
-                    "title": "Max Palevsky",
-                    "text": "Max Palevsky",
+                    "title": "Mãe tipo 2",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, ducimus!</p>",
                     "produto_1_link": "https://www.bemglo.com/",
                     "produto_1_img": "",
                     "produto_2_link": "https://www.bemglo.com/",
@@ -30,8 +30,8 @@
             },
             {
                 "result": {
-                    "title": "Saieh Hall",
-                    "text": "Saieh Hall",
+                    "title": "Mãe tipo 3",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, minus? Eum incidunt unde placeat optio?</p>",
                     "produto_1_link": "https://www.bemglo.com/",
                     "produto_1_img": "",
                     "produto_2_link": "https://www.bemglo.com/",
@@ -43,8 +43,8 @@
             },
             {
                 "result": {
-                    "title": "Mansueto",
-                    "text": "Mansueto",
+                    "title": "Mãe tipo 4",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, minus? Eum incidunt unde placeat optio?</p>",
                     "produto_1_link": "https://www.bemglo.com/",
                     "produto_1_img": "",
                     "produto_2_link": "https://www.bemglo.com/",
@@ -56,8 +56,8 @@
             },
             {
                 "result": {
-                    "title": "Harper",
-                    "text": "Harper",
+                    "title": "Mãe tipo 5",
+                    "text": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, minus? Eum incidunt unde placeat optio?</p>",
                     "produto_1_link": "https://www.bemglo.com/",
                     "produto_1_img": "",
                     "produto_2_link": "https://www.bemglo.com/",
@@ -71,35 +71,35 @@
         "quiz_questions": [
             {
                 "question": {
-                    "text": "How tall are you?",
+                    "text": "Sua mãe faz tal coisa?",
                     "question_answers": [
                         {
                             "answer": {
-                                "text": "Not too tall",
+                                "text": "Sim",
                                 "value": 4
                             }
                         },
                         {
                             "answer": {
-                                "text": "About average, but I find ways to bring attention to myself",
+                                "text": "As vezes",
                                 "value": 2
                             }
                         },
                         {
                             "answer": {
-                                "text": "I have a very imposing figure",
+                                "text": "Não sei",
                                 "value": 0
                             }
                         },
                         {
                             "answer": {
-                                "text": "Slightly shorter than most",
+                                "text": "Raramente",
                                 "value": 1
                             }
                         },
                         {
                             "answer": {
-                                "text": "I'm shorter than I am wide",
+                                "text": "Nunca",
                                 "value": 3
                             }
                         }
@@ -108,35 +108,35 @@
             },
             {
                 "question": {
-                    "text": "Which Seinfeld character are you?",
+                    "text": "Sua mãe faz tal coisa?",
                     "question_answers": [
                         {
                             "answer": {
-                                "text": "Jerry",
+                                "text": "Sim",
                                 "value": 4
                             }
                         },
                         {
                             "answer": {
-                                "text": "Elaine",
+                                "text": "As vezes",
                                 "value": 2
                             }
                         },
                         {
                             "answer": {
-                                "text": "George",
+                                "text": "Não sei",
                                 "value": 0
                             }
                         },
                         {
                             "answer": {
-                                "text": "Kramer",
+                                "text": "Raramente",
                                 "value": 1
                             }
                         },
                         {
                             "answer": {
-                                "text": "That giant glass dome they were always hanging out with",
+                                "text": "Nunca",
                                 "value": 3
                             }
                         }
@@ -145,72 +145,35 @@
             },
             {
                 "question": {
-                    "text": "What is your best quality?",
+                    "text": "Sua mãe faz tal coisa?",
                     "question_answers": [
                         {
                             "answer": {
-                                "text": "My determination",
-                                "value": 0
-                            }
-                        },
-                        {
-                            "answer": {
-                                "text": "My classiness",
+                                "text": "Sim",
                                 "value": 4
                             }
                         },
                         {
                             "answer": {
-                                "text": "My adapability",
+                                "text": "As vezes",
                                 "value": 2
                             }
                         },
                         {
                             "answer": {
-                                "text": "My UV blocking panels",
-                                "value": 3
-                            }
-                        },
-                        {
-                            "answer": {
-                                "text": "My vibrant fashion sense",
-                                "value": 1
-                            }
-                        }
-                    ]
-                }
-            },
-            {
-                "question": {
-                    "text": "What's your favorite sport?",
-                    "question_answers": [
-                        {
-                            "answer": {
-                                "text": "I don't really like sports",
+                                "text": "Não sei",
                                 "value": 0
                             }
                         },
                         {
                             "answer": {
-                                "text": "Whatever's going on, I love to compete!",
+                                "text": "Raramente",
                                 "value": 1
                             }
                         },
                         {
                             "answer": {
-                                "text": "Baseball, the game of the free-market!",
-                                "value": 2
-                            }
-                        },
-                        {
-                            "answer": {
-                                "text": "Soccer, the most elegant game",
-                                "value": 4
-                            }
-                        },
-                        {
-                            "answer": {
-                                "text": "Curling, it's so smooth",
+                                "text": "Nunca",
                                 "value": 3
                             }
                         }
@@ -219,36 +182,36 @@
             },
             {
                 "question": {
-                    "text": "When do you feel most active?",
+                    "text": "Sua mãe faz tal coisa?",
                     "question_answers": [
                         {
                             "answer": {
-                                "text": "Business hours",
-                                "value": 2
-                            }
-                        },
-                        {
-                            "answer": {
-                                "text": "I love reading late into the night",
+                                "text": "Sim",
                                 "value": 4
                             }
                         },
                         {
                             "answer": {
-                                "text": "My hours are 8:00 AM to 12:45 AM, with the circulation desk closing earlier",
-                                "value": 3
+                                "text": "As vezes",
+                                "value": 2
                             }
                         },
                         {
                             "answer": {
-                                "text": "Whenever something awesome is happening!",
+                                "text": "Não sei",
+                                "value": 0
+                            }
+                        },
+                        {
+                            "answer": {
+                                "text": "Raramente",
                                 "value": 1
                             }
                         },
                         {
                             "answer": {
-                                "text": "Until I burn out",
-                                "value": 0
+                                "text": "Nunca",
+                                "value": 3
                             }
                         }
                     ]
